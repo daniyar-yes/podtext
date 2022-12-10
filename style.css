@@ -1,0 +1,9 @@
+.fit-picture {
+    width: 20%;
+    height: auto
+}
+
+figure {
+    display: flex;
+    flex-direction: column
+}

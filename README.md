@@ -16,6 +16,7 @@ The list of requirements for project completion are:
     <li> Blog text input field should be pre-populated with #Description field from RSS after selecting the audio
     <li> Audio names in the dropdown menu should be named as corresponing Titles of Episodes in the RSS feed
     <li> Titles should be pre-populated with the right title in the RSS feed
+    <li> Episode Picures should be fetched from RSS too
     <li> The workflow of /newpost route should look like this:
         <ol>
             <li>The page should have 3 inputs: Top-down: Audio file selector drop-down; Title text-input field; Main blog text-input field
