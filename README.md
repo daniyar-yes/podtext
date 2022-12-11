@@ -12,7 +12,7 @@ The list of requirements for project completion are:
     <li> Blog creation form should include Title, Text, Audio File
     <li> Audiofile link should be pre-populated in the blog edit/publish form
     <li> Audiofile list should look like a drop-down menu
-    <li> Audios dropdown should automatically parse updated list of audio from podcast RSS: (link to RSS)[https://anchor.fm/s/9435b1d4/podcast/rss]
+    <li> Audios dropdown should automatically parse updated list of audio from podcast RSS: [link to RSS](https://anchor.fm/s/9435b1d4/podcast/rss)
     <li> Blog text input field should be pre-populated with #Description field from RSS after selecting the audio
     <li> Audio names in the dropdown menu should be named as corresponing Titles of Episodes in the RSS feed
     <li> Titles should be pre-populated with the right title in the RSS feed
